@@ -1,17 +1,8 @@
 {
   "main.css": "static/css/main.5e4a7fba.css",
   "main.css.map": "static/css/main.5e4a7fba.css.map",
-  "main.js": "static/js/main.9e58dc70.js",
-  "main.js.map": "static/js/main.9e58dc70.js.map",
-  "static\\media\\angular-match-game.jpg": "static/media/angular-match-game.51d45ab1.jpg",
-  "static\\media\\app.jpg": "static/media/app.b2a9c17b.jpg",
-  "static\\media\\csv.jpg": "static/media/csv.ff7370ae.jpg",
-  "static\\media\\m2.jpg": "static/media/m2.fcbae889.jpg",
+  "main.js": "static/js/main.86efa29a.js",
+  "main.js.map": "static/js/main.86efa29a.js.map",
   "static\\media\\main.jpg": "static/media/main.73db29f4.jpg",
-  "static\\media\\nav.jpg": "static/media/nav.4789e869.jpg",
-  "static\\media\\peak.jpg": "static/media/peak.bb6bdeef.jpg",
-  "static\\media\\plassurg.jpg": "static/media/plassurg.b2a1b2c5.jpg",
-  "static\\media\\portfolio-header.png": "static/media/portfolio-header.66340bb9.png",
-  "static\\media\\radio.jpg": "static/media/radio.20c8dadd.jpg",
-  "static\\media\\takeaway.jpg": "static/media/takeaway.a32234e8.jpg"
+  "static\\media\\portfolio-header.png": "static/media/portfolio-header.66340bb9.png"
 }
