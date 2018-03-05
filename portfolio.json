@@ -51,8 +51,15 @@
         },
         {
             "title": "Angular Match Game",
+            "url": "https://perrymarkg.herokuapp.com/angular-blog/",
+            "type": "Personal / Angular",
+            "bgImage": "angular-blog.jpg",
+            "content": "<p>This is a sample blog app built while learning angular 4 with integration to Google Firebase and Authentication. Originally I intended this to be a simple dashboard UI showcasing what angular could do in terms of UI development until it eventually became a full working app.</p>"
+        },
+        {
+            "title": "Angular Match Game",
             "url": "https://perrymarkg.herokuapp.com/angular-match-game/",
-            "type": "Personal",
+            "type": "Personal / Angular",
             "bgImage": "angular-match-game.jpg",
             "content": "<p>Fun project I made while learning to use Angular</p>"
         }
