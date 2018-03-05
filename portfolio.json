@@ -50,7 +50,7 @@
             "content": "<p>A personal project I made that converts a nested array or a flat array containing a parent and child relation to nested list. Primarily used to create menu navigation and even list items.</p><p>Looking forward to use this on my next project.</p>"
         },
         {
-            "title": "Angular Match Game",
+            "title": "Angular Blog",
             "url": "https://perrymarkg.herokuapp.com/angular-blog/",
             "type": "Personal / Angular",
             "bgImage": "angular-blog.jpg",
